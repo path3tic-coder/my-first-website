@@ -1,0 +1,28 @@
+#heading1{
+    background-color: antiquewhite;
+}
+
+
+p.para{
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: yellow;
+    
+    margin: 5px;
+    height:50%;
+    width: 30%;
+    display: inline-block;
+}
+
+.ezpz{
+    color: hotpink;
+}
+
+.result{
+    background-color: azure;
+    font-family: fantasy;
+    border: 5px solid peru;
+    border-radius: 10px;
+    margin: 10px 20px 30px 40px;
+    padding: 50px;
+}
